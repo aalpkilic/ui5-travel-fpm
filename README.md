@@ -69,6 +69,8 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/aalpkilic/ui5-travel-fpm/blob/main/images/project-overview.png)
 
+<strong> The travel application displays comprehensive travel information for companies through SAP's flexible programming model. 🧛</strong>
+
 ---
 
 <!-- ### Built With
