@@ -19,14 +19,14 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://github.com/aalpkilic/ui5-oDataV4">
+  <a href="https://github.com/aalpkilic/ui5-travel-fpm">
     <img src="images/ui5-logo.png" alt="Logo" width="160" height="80">
   </a>
 
-  <h3 align="center">UI5 - travel-fpm Template </h3>
+  <h3 align="center">UI5 - FPM - Travel App </h3>
 
   <p align="center">
-    <strong> OData is a widely accepted protocol that enables the creation and consumption of data through simple HTTP and REST APIs. It is designed to facilitate CRUD (create, read, update, and delete) operations, making it easy to manage data and interact with it in a standardized way. With OData, developers can create robust and scalable applications that can seamlessly integrate with a wide range of data sources. 🧛</strong>
+    <strong> The SAP UI5 Flexible Programming Model (FPM) is an approach that focuses on creating modular and scalable business applications that follow SAP Fiori design principles. This model prioritizes user experience while enabling developers to build applications quickly and easily. The FPM model provides customization and extensibility options that can be tailored to the specific requirements of your business applications. 🧛</strong>
 
     
   <br />
@@ -67,7 +67,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/aalpkilic/ui5-oDataV4/blob/main/images/project-overview.png)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/aalpkilic/ui5-travel-fpm/blob/main/images/project-overview.png)
 
 ---
 
@@ -133,7 +133,7 @@ Project Link: [https://github.com/aalpkilic/ui5-travel-fpm](https://github.com/a
 [stars-shield]: https://img.shields.io/github/stars/aalpkilic/ui5-travel-fpm.svg?style=for-the-badge
 [stars-url]: https://github.com/aalpkilic/ui5-travel-fpm/stargazers
 [issues-shield]: https://img.shields.io/github/issues/aalpkilic/ui5-travel-fpm.svg?style=for-the-badge
-[issues-url]: https://github.com/aalpkilic/ui5-oDataV4/issues
+[issues-url]: https://github.com/aalpkilic/ui5-travel-fpm/issues
 [license-shield]: https://img.shields.io/github/license/aalpkilic/travel-fpm.svg?style=for-the-badge
 [license-url]: https://github.com/aalpkilic/ui5-travel-fpm/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
